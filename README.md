@@ -2,8 +2,8 @@
 Heart disease prediction using the K-Nearest Neighbors (KNN) algorithm is a machine learning approach that helps assess the likelihood of heart disease based on medical data. Here's a breakdown of how it works:
 
 1. Understanding KNN for Heart Disease Prediction
-   1.1 KNN is a lazy learning algorithm that classifies a data point based on its nearest neighbors.
-   1.2 It works by calculating the distance between a new data point and existing labeled data points, then assigns the 
+    1.1 KNN is a lazy learning algorithm that classifies a data point based on its nearest neighbors.
+    1.2 It works by calculating the distance between a new data point and existing labeled data points, then assigns the 
        most common label among the nearest neighbors.
 
 2. Dataset Overview
